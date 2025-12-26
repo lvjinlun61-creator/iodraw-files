@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="jXTOovgyg8837Q9foDqS-0" value="数字控制系统 - DSP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="706" width="573" height="534" as="geometry" />
+          <mxGeometry x="240" y="706" width="573" height="534" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-1" value="电网侧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="368" y="440" width="335" height="197" as="geometry" />
@@ -32,19 +32,19 @@
           <mxGeometry x="403" y="564" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-9" value="信号采集: udc, Δuc, eabc, iabc" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="158" y="731" width="248" height="66" as="geometry" />
+          <mxGeometry x="358" y="731" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-10" value="坐标变换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="870" width="124" height="49" as="geometry" />
+          <mxGeometry x="420" y="870" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-11" value="双闭环控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="204" y="969" width="156" height="49" as="geometry" />
+          <mxGeometry x="404" y="969" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-12" value="层次化调制策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="195" y="1067" width="173" height="49" as="geometry" />
+          <mxGeometry x="395" y="1067" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-13" value="12路PWM驱动信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="327" y="1166" width="191" height="49" as="geometry" />
+          <mxGeometry x="527" y="1166" width="191" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-4" target="jXTOovgyg8837Q9foDqS-5">
           <mxGeometry relative="1" as="geometry">
@@ -69,7 +69,7 @@
         <mxCell id="jXTOovgyg8837Q9foDqS-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-12" target="jXTOovgyg8837Q9foDqS-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="282" y="1141" />
+              <mxPoint x="482" y="1141" />
             </Array>
           </mxGeometry>
         </mxCell>
