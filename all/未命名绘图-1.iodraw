@@ -7,7 +7,7 @@
         <mxCell id="jXTOovgyg8837Q9foDqS-0" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="247" y="580" width="520" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="jXTOovgyg8837Q9foDqS-1" value="电网侧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jXTOovgyg8837Q9foDqS-1" value="电网侧" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358" y="280" width="335" height="197" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-2" value="三相NPC三电平变流桥" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
