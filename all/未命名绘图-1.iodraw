@@ -8,7 +8,7 @@
           <mxGeometry x="240" y="706" width="573" height="534" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-1" value="电网侧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="368" y="440" width="335" height="197" as="geometry" />
+          <mxGeometry x="359" y="360" width="335" height="197" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-2" value="三相NPC三电平变流桥" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="376" y="109" width="336" height="99" as="geometry" />
@@ -26,10 +26,10 @@
           <mxGeometry x="441" y="134" width="201" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-7" value="L型滤波电感" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="486" y="465" width="148" height="49" as="geometry" />
+          <mxGeometry x="477" y="385" width="148" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-8" value="电网 690V/50Hz" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="403" y="564" width="175" height="49" as="geometry" />
+          <mxGeometry x="394" y="484" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-9" value="信号采集: udc, Δuc, eabc, iabc" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358" y="731" width="248" height="66" as="geometry" />
@@ -83,7 +83,7 @@
         <mxCell id="jXTOovgyg8837Q9foDqS-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-7" target="jXTOovgyg8837Q9foDqS-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="490" y="539" />
+              <mxPoint x="481" y="459" />
             </Array>
           </mxGeometry>
         </mxCell>
