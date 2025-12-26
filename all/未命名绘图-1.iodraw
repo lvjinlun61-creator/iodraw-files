@@ -40,7 +40,7 @@
         <mxCell id="jXTOovgyg8837Q9foDqS-11" value="双闭环控制器" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="411" y="849" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jXTOovgyg8837Q9foDqS-12" value="层次化调制策略" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jXTOovgyg8837Q9foDqS-12" value="层次化调制策略" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="402" y="947" width="178" height="53" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-13" value="12路PWM驱动信号" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
