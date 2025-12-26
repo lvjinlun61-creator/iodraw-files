@@ -19,10 +19,10 @@
         <mxCell id="jXTOovgyg8837Q9foDqS-4" value="储能电池组" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="60" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jXTOovgyg8837Q9foDqS-5" value="支撑电容" style="whiteSpace=wrap;strokeWidth=2;fontSize=28;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jXTOovgyg8837Q9foDqS-5" value="支撑电容" style="whiteSpace=wrap;strokeWidth=2;fontSize=28;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="128" y="164" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jXTOovgyg8837Q9foDqS-6" value="NPC三电平逆变电路" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jXTOovgyg8837Q9foDqS-6" value="NPC三电平逆变电路" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="441" y="120" width="199" height="63" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-7" value="L型滤波电感" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
