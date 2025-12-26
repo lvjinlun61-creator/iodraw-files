@@ -1,0 +1,131 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 NetType/WIFI MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090a13) UnifiedPCWindowsWechat(0xf254140c) XWEB/16925 Flue" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1194" dy="858" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="jXTOovgyg8837Q9foDqS-0" value="数字控制系统 - DSP" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="706" width="573" height="534" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-1" value="电网侧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="166" y="436" width="335" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-2" value="三相NPC三电平变流桥" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="282" y="287" width="336" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-3" value="直流侧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="40" width="472" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-4" value="储能电池组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="291" y="65" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-5" value="支撑电容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="299" y="164" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-6" value="NPC三电平逆变电路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="349" y="312" width="201" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-7" value="L型滤波电感" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="284" y="461" width="148" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-8" value="电网 690V/50Hz" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="201" y="560" width="175" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-9" value="信号采集: udc, Δuc, eabc, iabc" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="158" y="731" width="248" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-10" value="坐标变换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="870" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-11" value="双闭环控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="204" y="969" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-12" value="层次化调制策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="195" y="1067" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-13" value="12路PWM驱动信号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="327" y="1166" width="191" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-4" target="jXTOovgyg8837Q9foDqS-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-9" target="jXTOovgyg8837Q9foDqS-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-10" target="jXTOovgyg8837Q9foDqS-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-11" target="jXTOovgyg8837Q9foDqS-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.14;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-12" target="jXTOovgyg8837Q9foDqS-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="282" y="1141" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.85;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-5" target="jXTOovgyg8837Q9foDqS-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="449" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-6" target="jXTOovgyg8837Q9foDqS-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="358" y="386" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-7" target="jXTOovgyg8837Q9foDqS-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="288" y="535" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-22" value="udc, Δuc" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.11;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-5" target="jXTOovgyg8837Q9foDqS-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="113" y="237" />
+              <mxPoint x="113" y="706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-23" value="eabc" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.51;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-8" target="jXTOovgyg8837Q9foDqS-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="288" y="706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-24" value="iabc" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.73;exitY=0.99;entryX=0.83;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-7" target="jXTOovgyg8837Q9foDqS-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="428" y="535" />
+              <mxPoint x="428" y="706" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-25" value="驱动信号" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.75;exitY=0;entryX=0.67;entryY=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-13" target="jXTOovgyg8837Q9foDqS-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="521" y="1141" />
+              <mxPoint x="521" y="386" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
