@@ -11,10 +11,10 @@
           <mxGeometry x="166" y="436" width="335" height="197" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-2" value="三相NPC三电平变流桥" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="282" y="287" width="336" height="99" as="geometry" />
+          <mxGeometry x="284" y="287" width="336" height="99" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-3" value="直流侧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="40" width="472" height="197" as="geometry" />
+          <mxGeometry x="40" y="40" width="300" height="197" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-4" value="储能电池组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="158" y="60" width="140" height="49" as="geometry" />
