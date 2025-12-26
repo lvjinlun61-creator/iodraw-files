@@ -8,7 +8,7 @@
           <mxGeometry x="240" y="700" width="520" height="540" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-1" value="电网侧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="359" y="360" width="335" height="197" as="geometry" />
+          <mxGeometry x="358" y="280" width="335" height="197" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-2" value="三相NPC三电平变流桥" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="376" y="109" width="336" height="99" as="geometry" />
@@ -26,10 +26,10 @@
           <mxGeometry x="441" y="134" width="201" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-7" value="L型滤波电感" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="458" y="385" width="148" height="49" as="geometry" />
+          <mxGeometry x="457" y="305" width="148" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-8" value="电网 690V/50Hz" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="441" y="484" width="175" height="49" as="geometry" />
+          <mxGeometry x="440" y="404" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-9" value="信号采集: udc, Δuc, eabc, iabc" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358" y="731" width="248" height="66" as="geometry" />
@@ -99,8 +99,8 @@
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480.90999999999997" y="434" as="sourcePoint" />
-            <mxPoint x="480.90999999999997" y="484" as="targetPoint" />
+            <mxPoint x="479.90999999999997" y="354" as="sourcePoint" />
+            <mxPoint x="479.90999999999997" y="404" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-32" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-9" target="jXTOovgyg8837Q9foDqS-7">
@@ -123,6 +123,12 @@
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-35" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;eabc&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-36" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="560" as="sourcePoint" />
+            <mxPoint x="510" y="620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
