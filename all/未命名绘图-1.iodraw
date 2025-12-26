@@ -29,7 +29,7 @@
           <mxGeometry x="477" y="385" width="148" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-8" value="电网 690V/50Hz" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="394" y="484" width="175" height="49" as="geometry" />
+          <mxGeometry x="441" y="484" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-9" value="信号采集: udc, Δuc, eabc, iabc" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="358" y="731" width="248" height="66" as="geometry" />
@@ -119,7 +119,7 @@
             <mxPoint x="302" y="134" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jXTOovgyg8837Q9foDqS-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.336;entryY=0.106;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jXTOovgyg8837Q9foDqS-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.331;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="jXTOovgyg8837Q9foDqS-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="525.14" y="183" as="sourcePoint" />
             <mxPoint x="557.868" y="315.19399999999996" as="targetPoint" />
