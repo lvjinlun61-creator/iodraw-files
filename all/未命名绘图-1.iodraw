@@ -22,7 +22,7 @@
         <mxCell id="jXTOovgyg8837Q9foDqS-5" value="支撑电容" style="whiteSpace=wrap;strokeWidth=2;fontSize=28;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="128" y="164" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jXTOovgyg8837Q9foDqS-6" value="NPC三电平逆变电路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jXTOovgyg8837Q9foDqS-6" value="NPC三电平逆变电路" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="441" y="134" width="201" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-7" value="L型滤波电感" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
