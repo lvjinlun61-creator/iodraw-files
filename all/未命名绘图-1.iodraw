@@ -11,7 +11,7 @@
           <mxGeometry x="166" y="436" width="335" height="197" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-2" value="三相NPC三电平变流桥" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="377.5" y="134" width="336" height="99" as="geometry" />
+          <mxGeometry x="376" y="109" width="336" height="99" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-3" value="直流侧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="40" width="280" height="197" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="128" y="164" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-6" value="NPC三电平逆变电路" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="445" y="134" width="201" height="49" as="geometry" />
+          <mxGeometry x="441" y="134" width="201" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-7" value="L型滤波电感" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="284" y="461" width="148" height="49" as="geometry" />
