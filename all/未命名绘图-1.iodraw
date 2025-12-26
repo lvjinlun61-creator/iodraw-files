@@ -35,7 +35,7 @@
           <mxGeometry x="367" y="611" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-10" value="坐标变换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="427" y="750" width="124" height="49" as="geometry" />
+          <mxGeometry x="427" y="750" width="113" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-11" value="双闭环控制器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="411" y="849" width="156" height="49" as="geometry" />
