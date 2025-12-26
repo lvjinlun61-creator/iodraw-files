@@ -84,6 +84,7 @@
         <mxCell id="jXTOovgyg8837Q9foDqS-25" value="驱动信号" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.75;exitY=0;entryX=0.67;entryY=1;rounded=0;fontSize=22;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-13" target="jXTOovgyg8837Q9foDqS-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="720" y="1120" />
               <mxPoint x="521" y="1141" />
               <mxPoint x="1040" y="1020" />
               <mxPoint x="920" y="760" />
