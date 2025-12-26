@@ -17,7 +17,7 @@
           <mxGeometry x="40" y="40" width="472" height="197" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-4" value="储能电池组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="291" y="65" width="140" height="49" as="geometry" />
+          <mxGeometry x="195" y="60" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-5" value="支撑电容" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="299" y="164" width="124" height="49" as="geometry" />
