@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 NetType/WIFI MicroMessenger/7.0.20.1781(0x6700143B) WindowsWechat(0x63090a13) UnifiedPCWindowsWechat(0xf254140c) XWEB/16925 Flue" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1257" dy="903" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="1073" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -16,7 +16,7 @@
         <mxCell id="jXTOovgyg8837Q9foDqS-3" value="直流侧" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="40" width="280" height="197" as="geometry" />
         </mxCell>
-        <mxCell id="jXTOovgyg8837Q9foDqS-4" value="储能电池组" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jXTOovgyg8837Q9foDqS-4" value="储能电池组" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="60" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-5" value="支撑电容" style="whiteSpace=wrap;strokeWidth=2;fontSize=28;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -29,7 +29,7 @@
           <mxGeometry x="457" y="305" width="148" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-8" value="电网 690V/50Hz" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="404" width="180" height="49" as="geometry" />
+          <mxGeometry x="440" y="404" width="180" height="56" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-9" value="信号采集: udc, Δuc, eabc, iabc" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="367" y="611" width="248" height="66" as="geometry" />
