@@ -32,7 +32,7 @@
           <mxGeometry x="440" y="404" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-9" value="信号采集: udc, Δuc, eabc, iabc" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="365" y="611" width="248" height="66" as="geometry" />
+          <mxGeometry x="367" y="611" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-10" value="坐标变换" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="427" y="750" width="124" height="49" as="geometry" />
@@ -81,17 +81,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jXTOovgyg8837Q9foDqS-25" value="驱动信号" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.75;exitY=0;entryX=0.67;entryY=1;rounded=0;fontSize=22;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jXTOovgyg8837Q9foDqS-13" target="jXTOovgyg8837Q9foDqS-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="720" y="1120" />
-              <mxPoint x="521" y="1141" />
-              <mxPoint x="1040" y="1020" />
-              <mxPoint x="920" y="760" />
-              <mxPoint x="1120" y="380" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="jXTOovgyg8837Q9foDqS-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="252" y="184" as="sourcePoint" />
@@ -129,6 +118,16 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="527" y="183" as="sourcePoint" />
             <mxPoint x="577" y="243" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jXTOovgyg8837Q9foDqS-37" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="670" as="sourcePoint" />
+            <mxPoint x="510" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="510" y="670" />
+              <mxPoint x="460" y="620" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
