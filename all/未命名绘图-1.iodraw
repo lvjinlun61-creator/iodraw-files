@@ -28,7 +28,7 @@
         <mxCell id="jXTOovgyg8837Q9foDqS-7" value="L型滤波电感" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="457" y="305" width="148" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="jXTOovgyg8837Q9foDqS-8" value="电网 690V/50Hz" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="jXTOovgyg8837Q9foDqS-8" value="电网 690V/50Hz" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="404" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="jXTOovgyg8837Q9foDqS-9" value="信号采集: udc, Δuc, eabc, iabc" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
