@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="wZUckXVRZPbpBAe7ExHE-0" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wZUckXVRZPbpBAe7ExHE-0" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="760" as="sourcePoint" />
             <mxPoint x="200" y="600" as="targetPoint" />
