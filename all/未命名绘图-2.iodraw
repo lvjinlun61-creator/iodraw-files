@@ -49,7 +49,7 @@
         <mxCell id="wZUckXVRZPbpBAe7ExHE-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="855" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="wZUckXVRZPbpBAe7ExHE-12" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;标准化处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wZUckXVRZPbpBAe7ExHE-12" value="&lt;font style=&quot;font-size: 35px;&quot;&gt;标准化处理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="875" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="wZUckXVRZPbpBAe7ExHE-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="wZUckXVRZPbpBAe7ExHE-9">
@@ -82,13 +82,13 @@
             <mxPoint x="1060" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wZUckXVRZPbpBAe7ExHE-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wZUckXVRZPbpBAe7ExHE-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1060" y="700" width="260" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="wZUckXVRZPbpBAe7ExHE-21" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;模型预测：0.6LSTM＋0.4XGBoost&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wZUckXVRZPbpBAe7ExHE-21" value="&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;模型预测：0.6LSTM＋0.4XGBoost&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1100" y="720" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="wZUckXVRZPbpBAe7ExHE-22" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wZUckXVRZPbpBAe7ExHE-22" value="" style="endArrow=classic;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1320" y="782" as="sourcePoint" />
             <mxPoint x="1399" y="781.5047021943574" as="targetPoint" />
