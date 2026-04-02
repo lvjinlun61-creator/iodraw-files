@@ -136,7 +136,7 @@
         <mxCell id="wZUckXVRZPbpBAe7ExHE-38" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1320" y="760" width="80" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wZUckXVRZPbpBAe7ExHE-39" value="" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wZUckXVRZPbpBAe7ExHE-39" value="PCA用于将高维特征数据降维到3维，提取主要特征成分，减少计算复杂度，但不参与最终的预测结果融合。" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1130" y="400" width="170" height="220" as="geometry" />
         </mxCell>
       </root>
