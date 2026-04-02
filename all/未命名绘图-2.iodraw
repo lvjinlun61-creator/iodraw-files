@@ -112,7 +112,7 @@
         <mxCell id="wZUckXVRZPbpBAe7ExHE-31" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 35px;&quot;&gt;状态判断&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1432" y="1052" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wZUckXVRZPbpBAe7ExHE-32" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wZUckXVRZPbpBAe7ExHE-32" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1478.75" y="1162" as="sourcePoint" />
             <mxPoint x="1479" y="1240" as="targetPoint" />
