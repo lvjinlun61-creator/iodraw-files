@@ -134,13 +134,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wUVMdsV9qE62w7ktq_8C-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1322.5" y="360" width="237.5" height="285" as="geometry" />
+          <mxGeometry x="1361.25" y="235" width="237.5" height="285" as="geometry" />
         </mxCell>
         <mxCell id="wUVMdsV9qE62w7ktq_8C-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="945" y="840" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUVMdsV9qE62w7ktq_8C-21" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i style=&quot;font-size: 30px;&quot;&gt;PCA用于将高维特征数据降维到3维，提取主要特征成分，减少计算复杂度.&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1340" y="375" width="205" height="255" as="geometry" />
+          <mxGeometry x="1378.75" y="250" width="205" height="255" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
