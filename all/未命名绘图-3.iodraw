@@ -142,6 +142,12 @@
         <mxCell id="wUVMdsV9qE62w7ktq_8C-24" value="&lt;br&gt;&lt;div&gt;&lt;i style=&quot;font-size: 32px;&quot;&gt;基于六西格玛理论、IQR方法和MAD方法三种统计方法综合计算得出判断阈值&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="960" y="1112" width="210" height="285" as="geometry" />
         </mxCell>
+        <mxCell id="wUVMdsV9qE62w7ktq_8C-26" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=5;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="1230" as="sourcePoint" />
+            <mxPoint x="1395" y="1095" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
