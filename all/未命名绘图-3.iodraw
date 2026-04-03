@@ -109,6 +109,9 @@
         <mxCell id="wZUckXVRZPbpBAe7ExHE-35" value="&lt;div style=&quot;font-size: 32px;&quot;&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 32px;&quot;&gt;&lt;i style=&quot;&quot;&gt;基于六西格玛理论、IQR方法和MAD方法三种统计方法综合计算得出判断阈值&lt;/i&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="960" y="1060" width="220" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="wZUckXVRZPbpBAe7ExHE-39" value="&lt;div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;i&gt;PCA用于将高维特征数据降维到3维，提取主要特征成分，减少计算复杂度.&lt;/i&gt;&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1230" y="210" width="210" height="260" as="geometry" />
+        </mxCell>
         <mxCell id="wZUckXVRZPbpBAe7ExHE-40" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1390" y="1240" width="180" height="180" as="geometry" />
         </mxCell>
