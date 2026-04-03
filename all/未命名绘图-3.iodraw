@@ -137,10 +137,10 @@
           <mxGeometry x="1378.75" y="250" width="205" height="255" as="geometry" />
         </mxCell>
         <mxCell id="wUVMdsV9qE62w7ktq_8C-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="915" y="930" width="240" height="315" as="geometry" />
+          <mxGeometry x="945" y="1095" width="240" height="315" as="geometry" />
         </mxCell>
         <mxCell id="wUVMdsV9qE62w7ktq_8C-24" value="&lt;br&gt;&lt;div&gt;&lt;i style=&quot;font-size: 32px;&quot;&gt;基于六西格玛理论、IQR方法和MAD方法三种统计方法综合计算得出判断阈值&lt;/i&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="930" y="939.5" width="210" height="285" as="geometry" />
+          <mxGeometry x="960" y="1104.5" width="210" height="285" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
