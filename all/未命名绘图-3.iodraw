@@ -151,14 +151,14 @@
         <mxCell id="wUVMdsV9qE62w7ktq_8C-4" value="&lt;b style=&quot;font-size: 32px;&quot;&gt;登录系统&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="2195" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wUVMdsV9qE62w7ktq_8C-8" value="&lt;b style=&quot;font-size: 32px;&quot;&gt;登录系统&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="wUVMdsV9qE62w7ktq_8C-8" value="&lt;span style=&quot;font-size: 32px;&quot;&gt;&lt;b&gt;参数信息录入&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="510" y="2195" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUVMdsV9qE62w7ktq_8C-9" value="&lt;b style=&quot;font-size: 32px;&quot;&gt;登录系统&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="830" y="2195" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUVMdsV9qE62w7ktq_8C-10" value="&lt;b style=&quot;font-size: 32px;&quot;&gt;登录系统&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="2255" width="140" height="30" as="geometry" />
+          <mxGeometry x="1150" y="2195" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
